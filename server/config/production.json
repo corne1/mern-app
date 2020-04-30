@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "almaz developer senior",
+  "mongoUri": "mongodb+srv://almaz:123qweasd@cluster0-rrybj.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
